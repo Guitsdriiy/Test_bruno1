@@ -1,0 +1,29 @@
+*{
+        color: white;
+        font-size: 20px;
+}
+body{
+        background-image: url('/Fundo.jpg');
+        background-repeat: no-repeat;
+        background-position: center 0;
+        background-size: cover;
+        margin: 0;
+}
+
+#fundo{
+        background-color: #0000007e;
+        height: 100%;
+        width: 100%;
+}
+
+.titulo{
+        color: white;
+        font-style: normal;
+        text-align: center;
+        font-size: 100px;
+}
+
+.pergunta1{
+        font-size:px;
+}
+
